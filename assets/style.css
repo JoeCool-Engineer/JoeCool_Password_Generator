@@ -96,6 +96,11 @@ button[disabled] {
 .float-right {
   float: right;
 }
+footer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
 
 #password {
   -webkit-appearance: none;
